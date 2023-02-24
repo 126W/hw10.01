@@ -2,7 +2,7 @@
 ---
 ### Задание 1
 
-Первая машина
++ Первая машина
 
 ![image](https://user-images.githubusercontent.com/122415129/221240078-6f2c48fd-8790-4fb5-9359-5c3e1b6fc0ee.png)
 
@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/122415129/221240574-181d5c34-45a1-4020-9f69-0ddc0912612a.png)
 
-Вторая машина
++ Вторая машина
 
 ![image](https://user-images.githubusercontent.com/122415129/221243510-bf08577e-6990-4814-9350-8470a831361b.png)
 
