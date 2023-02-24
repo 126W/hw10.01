@@ -10,3 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/122415129/221240574-181d5c34-45a1-4020-9f69-0ddc0912612a.png)
 
+Вторая машина
+
+![image](https://user-images.githubusercontent.com/122415129/221243510-bf08577e-6990-4814-9350-8470a831361b.png)
+
+![image](https://user-images.githubusercontent.com/122415129/221243621-384c59f6-ed02-4063-90c0-2574e5ca3abf.png)
+
+![image](https://user-images.githubusercontent.com/122415129/221243718-083f9c20-3610-4d0f-9b58-4c072685194c.png)
